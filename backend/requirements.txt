@@ -1,0 +1,6 @@
+django>=4.2,<6.0
+djangorestframework>=3.14,<4.0
+django-cors-headers>=4.0,<5.0
+pytest>=7.0
+pytest-django>=4.5
+
